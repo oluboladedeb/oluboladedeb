@@ -1,6 +1,6 @@
 ### Hi, I'm Deborah.  👋
 
-I am a web developer.
+I'm a web developer.
 
 <!--
 **oluboladedeb/oluboladedeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
