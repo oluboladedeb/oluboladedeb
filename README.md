@@ -1,6 +1,6 @@
 ### Hi, I'm Deborah.  👋
 
-I'm a web developer.
+I'm a frontend developer, UI/UX designer and an upcoming data scientist.
 
 <!--
 **oluboladedeb/oluboladedeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
